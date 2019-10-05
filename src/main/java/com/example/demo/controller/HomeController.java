@@ -1,4 +1,4 @@
-package com.example.demo.producer;
+package com.example.demo.controller;
 
 import javax.jms.Queue;
 
